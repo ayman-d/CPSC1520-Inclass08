@@ -1,0 +1,163 @@
+[
+    {
+        "id": "46096339",
+        "location": "lamina",
+        "thumbnail": "stay-1.webp",
+        "rentalType": "entire loft",
+        "rating": "4.76",
+        "reviews": "216",
+        "dailyRate": 32,
+        "currency": "CAD"
+    },
+    {
+        "id": "e1d041c8",
+        "location": "Contem El Simora",
+        "thumbnail": "stay-2.webp",
+        "rentalType": "entire house ",
+        "rating": "4.96",
+        "reviews": "816",
+        "dailyRate": 163,
+        "currency": "CAD"
+       
+    },
+    {
+        "id": "21baeff6",
+        "location": "Carpe Annana",
+        "thumbnail": "stay-4.webp",
+        "rentalType": "entire loft",
+        "rating": "4.76",
+        "reviews": "216",
+        "dailyRate": 32,
+        "currency": "CAD" 
+    },
+    {
+        "id": "ad530eac",
+        "location": "Trinidad",
+        "thumbnail": "stay-6.webp",
+        "rentalType": "private room",
+        "rating": "3.92",
+        "reviews": "216",
+        "dailyRate": 61,
+        "currency": "CAD"   
+    },
+    {
+        "id": "ad530eac",
+        "location": "Playa Larga",
+        "thumbnail": "stay-23.webp",
+        "rentalType": "hotel room",
+        "rating": "4.37",
+        "reviews": "124",
+        "dailyRate": 35,
+        "currency": "CAD" 
+    },
+    {
+        "id": "ad530eac",
+        "location": "Bay Mont Orales",
+        "thumbnail": "stay-10.webp",
+        "rentalType": "hotel room",
+        "rating": "4.76",
+        "reviews": "121",
+        "dailyRate": 89,
+        "currency": "US" 
+    },
+    {
+        "id": "eea8717f",
+        "location": "Hamcaczol",
+        "thumbnail": "stay-12.webp",
+        "rentalType": "shared room",
+        "rating": "4.01",
+        "reviews": "271",
+        "dailyRate": 65,
+        "currency": "CAD" 
+    },
+    {
+        "id": "06939bcc",
+        "location": "Chinchola Mons",
+        "thumbnail": "stay-25.webp",
+        "rentalType": "entire place",
+        "rating": "4.68",
+        "reviews": "206",
+        "dailyRate": 90,
+        "currency": "CAD" 
+    },
+    {
+        "id": "95d93257",
+        "location": "hamcaczol",
+        "thumbnail": "stay-16.webp",
+        "rentalType": "private room",
+        "rating": "4.31",
+        "reviews": "134",
+        "dailyRate": 75,
+        "currency": "CAD" 
+    },
+    {
+        "id": "b7cf5a57",
+        "location": "oceana pero nombrusco",
+        "thumbnail": "stay-18.webp",
+        "rentalType": "entire hosue",
+        "rating": "4.85",
+        "reviews":"89",
+        "dailyRate": 125,
+        "currency": "US" 
+    },
+    {
+        "id": "06939bcc",
+        "location": "pesquera miloto",
+        "thumbnail": "stay-17.webp",
+        "rentalType": "entire appartment",
+        "rating": "4.92",
+        "reviews":"455",
+        "dailyRate": 160,
+        "currency": "CAD" 
+    },
+    {
+        "id": "33fa06d7",
+        "location": "Jhanminhiz Apreszo",
+        "thumbnail": "stay-22.webp",
+        "rentalType": "entire room",
+        "rating": "4.15",
+        "reviews": "4.15",
+        "dailyRate": 45,
+        "currency": "US" 
+    },
+    {
+        "id": "c9e9aea1",
+        "location": "pesquera miloto",
+        "thumbnail": "stay-24.webp",
+        "rentalType": "entire appartment",
+        "rating": "4.65",
+        "reviews": "370",
+        "dailyRate": 145,
+        "currency": "CAD" 
+    },
+    {
+        "id": "8b13adc9",
+        "location": "pesquera miloto",
+        "thumbnail": "stay-34.webp",
+        "rentalType": "hotel room",
+        "rating": "4.15",
+        "reviews": "186",
+        "dailyRate": 145,
+        "currency": "CAD" 
+    },
+    {
+        "id": "ac99effc",
+        "location": "kimperai sa feslik",
+        "thumbnail": "stay-30.webp",
+        "rentalType": "entire house",
+        "rating": "4.35",
+        "reviews": "136",
+        "dailyRate": 149,
+        "currency": "CAD" 
+    },
+    {
+        "id": "1f668c4b",
+        "location": "luna masino",
+        "thumbnail": "stay-33.webp",
+        "rentalType": "hotel room",
+        "rating": "4.41",
+        "reviews": "224",
+        "dailyRate": 110,
+        "currency": "US" 
+    }
+]
